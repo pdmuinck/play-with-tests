@@ -1,0 +1,15 @@
+# Created at 2024-04-08T22:30:50.936
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[3,078s][warning][jni,resolve] Re-registering of platform native method: java.lang.PanwHooksNs.HookArgs0()V from code in a different classloader'.
+
+# Created at 2024-04-08T22:30:50.940
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[3,078s][warning][jni,resolve] Re-registering of platform native method: java.lang.PanwHooksNs.HookArgs1(Ljava/lang/Object;)V from code in a different classloader'.
+
+# Created at 2024-04-08T22:30:50.942
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[3,078s][warning][jni,resolve] Re-registering of platform native method: java.lang.PanwHooksNs.HookArgs2(Ljava/lang/Object;Ljava/lang/Object;)V from code in a different classloader'.
+
+# Created at 2024-04-08T22:30:50.943
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[3,078s][warning][jni,resolve] Re-registering of platform native method: java.lang.PanwHooksNs.HookArgs3(Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V from code in a different classloader'.
+
+# Created at 2024-04-08T22:30:56.092
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[3,078s][warning][jni,resolve] Re-registering of platform native method: java.lang.PanwHooksNs.HookArgs4(Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V from code in a different classloader'.
+
