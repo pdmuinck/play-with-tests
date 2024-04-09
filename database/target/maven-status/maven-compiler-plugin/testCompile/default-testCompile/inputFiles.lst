@@ -1,1 +1,3 @@
-/home/pieterjand/projects/play-with-tests/database/src/test/java/DatabaseContainerTest.java
+/home/pieterjand/projects/play-with-tests/database/src/test/java/DatabaseParallelTest.java
+/home/pieterjand/projects/play-with-tests/database/src/test/java/BaseDatabaseTest.java
+/home/pieterjand/projects/play-with-tests/database/src/test/java/DatabaseSequenceTest.java
